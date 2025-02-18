@@ -76,9 +76,3 @@ BE : 쿠폰 등록 및 사용 기능구현, 장바구니 기능구현, 마이페
     - MySQL
     - Redis
 
-
-# lotte-project
-# team3-lotteon-project
-# team3-lotteon-project
-# team3-lotteon-project
-# LotteOnProject
